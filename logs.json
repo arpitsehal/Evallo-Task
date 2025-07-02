@@ -1,0 +1,62 @@
+[
+  {
+    "id": "log_001",
+    "level": "info",
+    "message": "Application started successfully",
+    "resourceId": "server-001",
+    "timestamp": "2024-01-15T10:30:00.000Z",
+    "traceId": "trace-123456",
+    "spanId": "span-789",
+    "commit": "abc123def"
+  },
+  {
+    "id": "log_002",
+    "level": "warning",
+    "message": "Database connection pool running low",
+    "resourceId": "db-001",
+    "timestamp": "2024-01-15T10:32:15.000Z",
+    "traceId": "trace-123457",
+    "spanId": "span-790",
+    "commit": "abc123def"
+  },
+  {
+    "id": "log_003",
+    "level": "error",
+    "message": "Failed to process user request: timeout",
+    "resourceId": "api-001",
+    "timestamp": "2024-01-15T10:35:22.000Z",
+    "traceId": "trace-123458",
+    "spanId": "span-791",
+    "commit": "abc123def"
+  },
+  {
+    "id": "log_004",
+    "level": "debug",
+    "message": "Processing request for user ID: 12345",
+    "resourceId": "api-001",
+    "timestamp": "2024-01-15T10:35:20.000Z",
+    "traceId": "trace-123458",
+    "spanId": "span-791",
+    "commit": "abc123def"
+  },
+  {
+    "id": "log_005",
+    "level": "info",
+    "message": "User authentication successful",
+    "resourceId": "auth-001",
+    "timestamp": "2024-01-15T10:40:10.000Z",
+    "traceId": "trace-123459",
+    "spanId": "span-792",
+    "commit": "def456ghi"
+  },
+  {
+    "level": "info",
+    "message": "Request Passed Successfully",
+    "resourceId": "server-001",
+    "traceId": "trace-17373",
+    "spanId": "span-7338",
+    "commit": "sxjasjuw22",
+    "metadata": {},
+    "timestamp": "2025-07-02T05:53:40.090Z"
+  }
+]
